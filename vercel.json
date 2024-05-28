@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "http://opslogic360.com/$1"
+ }
+  ]
+}
